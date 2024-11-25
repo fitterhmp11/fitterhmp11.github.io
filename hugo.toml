@@ -1,0 +1,45 @@
+baseURL = 'http://pstudentjr.com'
+languageCode = 'en-us'
+title = 'Hugo Site on MacBook'
+theme = 'ananke'
+
+# Configure the main page content
+[params]
+ mainSections = ["posts"]   
+
+# only show posts, not about from the homepage
+# authorGitHub = "https://github.com/fitterhmp11/public" 
+# GitHub link for author.
+
+
+
+[[menu.main]]
+
+  name = "About"
+  url = "/about"
+  weight = 2
+
+
+[[menu.main]]
+
+  name = "Hugo"
+  url = "/tags/hugo"
+  weight = 3
+
+[[menu.main]]
+
+  name = "Delete Category"
+  url = "/categories/delete"
+  weight = 4
+
+  
+
+# [params.ananke.social.follow]
+# networks = [
+#  "github"
+# ]
+
+# [params.ananke.social.github]
+# username = "fitterhmp11/public"
+
+
