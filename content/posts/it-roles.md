@@ -10,7 +10,7 @@ summary: "Brief explanation and identification of distinction  between common ro
 description: "Brief explanation and identification of distinction  between common roles, job and responsibilities in IT."
 ---
 
-
+2
 
 ## Core IT Operations and Development Roles
 
