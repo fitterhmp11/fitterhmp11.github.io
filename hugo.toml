@@ -1,6 +1,6 @@
-baseURL = 'http://pstudentjr.com'
+baseURL = 'https://fitterhmp11.github.io'
 languageCode = 'en-us'
-title = 'Hugo Site on MacBook'
+title = 'Fitterhmp11 Development Blog'
 theme = 'ananke'
 
 # Configure the main page content
@@ -28,8 +28,8 @@ theme = 'ananke'
 
 [[menu.main]]
 
-  name = "Delete Category"
-  url = "/categories/delete"
+  name = "Networking"
+  url = "/categories/Networking"
   weight = 4
 
   
