@@ -95,19 +95,21 @@ Through this lab experience, I enhanced several skills, including:
 
 Example Commands for FRR Configuration
 
-	1.	To check the version of Cumulus Linux, run: 
+1. To check the version of Cumulus Linux, run: 
+
 	`cat /etc/os-release`
 
-	2.	To check the status of the FRR service:
+ 2. To check the status of the FRR service:
+
 	`sudo systemctl status frr.service`
 	
-	3.	To edit the FRR configuration:
-	
+3. To edit the FRR configuration:	
+
 	`vi /etc/frr/daemons`
 
 	•	Use i to enter insert mode and make necessary changes, then save and quit with :wq.
 
-	4.	Restart the FRR service to apply changes:
+4. Restart the FRR service to apply changes:
 	
 	`sudo systemctl restart frr.service`
 
