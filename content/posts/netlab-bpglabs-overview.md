@@ -17,7 +17,7 @@ description: "Overview of Netlab, BGPLabs and GitHub Codespaces"
 
 
 
-I got wind of Ivan explaining netlab and his bgplabs.  I thought it was a great way to strengthen my knowledge of BGP and also learn by doing with GitHub, virtualization and some new Network OS vendors.
+I was listening to an interview with Ivan Pepelnjak and he was explaining netlab and his bgplabs.  I thought it was a great way to strengthen my knowledge of BGP and also learn by doing with GitHub, virtualization and some new Network OS vendors.
 
 I will give some overview thoughts here, and then do a different post for each lab I complete
 
@@ -41,22 +41,29 @@ By automating the setup process and using preconfigured environments, I can focu
 
 To utilize GitHub Codespaces for deploying the Netlab/BGP labs, follow these steps:
 
-	1.	Launch GitHub Codespaces:
+1. Launch GitHub Codespaces.
+
 Start an instance connected to the Netlab/BGP labs GitHub repository.
-	2.	Start Netlab:
+
+2.	Start Netlab.
+
 Open a terminal in your Codespace and navigate to the lab directory. Execute the following command to start Netlab:
 
-netlab up
+`netlab up`
 
-	3.	Connecting to Devices:
+
+3. Connecting to Devices.
+
 Once Netlab is running, all devices in the lab will be running as containers within the instance. Connect to the Linux router and start BGP or any other necessary daemon.
-	4.	Using Vtysh:
+
+4. Using Vtysh.
+
 To configure the router, enter the FRR (Free Range Routing) virtual shell using:
 
-`sudo vtysh`
+`sudo vtysh` - depending on Linux OS running you may not need to use sudo
 
+5.	Exit and Stop Netlab.
 
-	5.	Exit and Stop Netlab:
 After completing your configurations, exit the router and stop Netlab using:
 
 `netlab down`
@@ -67,39 +74,42 @@ Finally, shut down the Codespace instance.
 
 Through this lab experience, I enhanced several skills, including:
 
-	•	Linux system administration
-	•	GitHub workflow
-	•	Virtualization technologies
-	•	Cumulus Linux management
-	•	FRR routing daemon configuration
-	•	BGP routing techniques
+•	Linux system administration
 
-Additional Notes
+•	GitHub workflow
 
-	•	Cumulus Linux is a distribution designed for networking devices, supporting advanced network protocols such as EVPN, VXLAN, and MLAG. It provides a traditional Linux environment, allowing network engineers to utilize familiar tools like Bash and iptables.
-	•	FRR (Free Range Routing) is an open-source routing software suite enabling various network protocols on Linux and Unix-like platforms. It supports protocols like BGP, OSPF, and IS-IS, providing a flexible and efficient routing stack.
+•	Virtualization technologies
+•	Cumulus Linux management
+
+•	FRR routing daemon configuration
+
+•	BGP routing techniques
+
+## Additional Notes
+
+• Cumulus Linux is a distribution designed for networking devices, supporting advanced network protocols such as EVPN, VXLAN, and MLAG. It provides a traditional Linux environment, allowing network engineers to utilize familiar tools like Bash and iptables.
+
+• FRR (Free Range Routing) is an open-source routing software suite enabling various network protocols on Linux and Unix-like platforms. It supports protocols like BGP, OSPF, and IS-IS, providing a flexible and efficient routing stack.
+
+
 
 Example Commands for FRR Configuration
 
-	1.	To check the version of Cumulus Linux, run:
-
-`cat /etc/os-release`
-
+	1.	To check the version of Cumulus Linux, run: 
+	`cat /etc/os-release`
 
 	2.	To check the status of the FRR service:
-
-`sudo systemctl status frr.service`
-
-
+	`sudo systemctl status frr.service`
+	
 	3.	To edit the FRR configuration:
-
-`vi /etc/frr/daemons`
+	
+	`vi /etc/frr/daemons`
 
 	•	Use i to enter insert mode and make necessary changes, then save and quit with :wq.
 
 	4.	Restart the FRR service to apply changes:
-
-`sudo systemctl restart frr.service`
+	
+	`sudo systemctl restart frr.service`
 
 
 
