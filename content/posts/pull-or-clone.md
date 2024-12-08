@@ -12,9 +12,9 @@ summary: "Git question: Pull or Clone to my empty local folder?"
 description: "Git question: Pull or Clone to my empty local folder?"
 
 ---
-*The following is the an AI generated reposonse to my question. 
+*The following is the an AI generated reposonse to my question.*
 
-see [About]({{< relref "about/about.md >}})*
+see [About](/about/about.md)
 
 
 It depends on whether the local folder already has a Git repository linked to the remote repository.
