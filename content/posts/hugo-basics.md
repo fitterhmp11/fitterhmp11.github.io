@@ -1,6 +1,6 @@
 ---
 title: "Working With Hugo: Basics 1"
-date: 2024-12-7T01:00:00
+date: 2024-12-7T02:00:00
 tags:
   - hugo
 categories: 
