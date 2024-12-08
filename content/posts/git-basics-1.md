@@ -1,6 +1,6 @@
 ---
 title: "Simple Git workflow with Remote Repository"
-date: 2024-12-7T01:00:00
+date: 2024-12-7T04:00:00
 tags:
   - git
 categories: 
