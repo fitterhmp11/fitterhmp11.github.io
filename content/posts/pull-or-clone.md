@@ -1,6 +1,6 @@
 ---
 title: "Git question: I want to pull a GitHub repository to my empty local folder.  Should I clone it or pull it?"
-date: 2024-12-7T03:00:00
+date: 2024-12-07T03:00:00
 tags:
   - git
   - ai
