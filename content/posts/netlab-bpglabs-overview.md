@@ -3,7 +3,6 @@ title: "Netlab BGP Labs Series: Getting Started with GitHub Codespaces"
 date: 2024-11-01T01:00:00
 tags:
   - netlab
-  - bgp
   - bgplabs
   - codespaces
 
