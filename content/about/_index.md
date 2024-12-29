@@ -6,7 +6,7 @@ draft: false
 # Abstract
 An "old-world" network engineer, leveraging 20+ years of networking experience to explore "new-world" concepts.
 
-Topics will focus on increasing my understanding of cybersecurity, networking, network automation, network observability, virtualization, cloud, linux, python and misc tips I find useful and meaningful.
+Topics will focus on increasing my understanding of cybersecurity, networking, network automation, network observability, virtualization, cloud, linux, python, programmingß and misc tips I find useful and meaningful.
 
 # Learn by Doing
 Recognizing my tendency to always start from the basics and slowly proceed systematically, I often find I get distracted before I can make any meaningful progress.
