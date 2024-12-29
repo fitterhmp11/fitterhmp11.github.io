@@ -133,7 +133,7 @@ By default, when you use the `git rm` command it removes the file. In the backgr
 Create a folder/directory
 Git init
 Git add filename
-Git comment -m “initial commit”
+Git commit -m “initial commit”
 git remote add origin https://github.com/fitterhmp11/python_scripts.git
 push to git using `git push -u origin main`
 
