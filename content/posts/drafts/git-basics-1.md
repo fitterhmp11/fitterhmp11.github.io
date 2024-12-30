@@ -125,6 +125,15 @@ push to git repository
 
 By default, when you use the `git rm` command it removes the file. In the background, the file is moved from Unmodified to Untracked, then deleted by the git rm command. It is ultimately removed after following this status path.
 
+`git remote -v`
+- this shows current origin repository
+
+`git branch`
+- shows branches
+
+`git branch -a`
+- shows local and remote branches
+
 
 ## Basic tasks worflow
 
