@@ -1,11 +1,11 @@
 ---
-title: "Simple Git workflow with Remote Repository"
-date: 2024-12-07T04:00:00
+title: "Basic Git Concepts - 1"
+date: 2025-01-28T04:00:00
 tags:
   - git
 categories: 
  
-draft: true
+draft: false
 url: "git-basics"
 summary: "Basic Git concepts, terms and commands"
 description: "Basic Git concepts, terms and commands"
