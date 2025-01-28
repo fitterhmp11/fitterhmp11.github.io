@@ -1,6 +1,6 @@
 ---
 title: "Podcast Notes: November 2024"
-date: 2025-01-001T01:00:00
+date: 2025-01-01T01:00:00
 tags:
   - podcasts
 categories: 
