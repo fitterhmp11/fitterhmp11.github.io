@@ -44,5 +44,7 @@ here is test of using the external link
 
 Check out {{< external-link "https://gohugo.io" >}}Hugo's official website{{< /external-link >}}.
 
+here is the code:
+`Check out {{< external-link "https://gohugo.io" >}}Hugo's official website{{< /external-link >}}.`
 
-
+It works!

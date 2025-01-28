@@ -70,3 +70,5 @@ Create a plan that is never done
 
 
 [Reference - Podcast Link](https://packetpushers.net/podcast/packet-protector/)
+
+Reference: Link to {{< external-link "https://packetpushers.net/podcast/packet-protector/" >}}Podcast {{< /external-link >}} Website.
