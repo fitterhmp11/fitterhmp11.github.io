@@ -28,8 +28,8 @@ theme = 'ananke'
 
 [[menu.main]]
 
-  name = "Concepts"
-  url = "/categories/Concepts"
+  name = "Development"
+  url = "/categories/Development"
   weight = 4
 
   
