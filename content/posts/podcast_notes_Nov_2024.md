@@ -60,7 +60,7 @@ Cloud companies have a mindset that is not afraid of change. In fact they approa
 
 There’s some companies in industries that dev ops is not the correct approach to the software development cycle will be more like network operations, COI and other tools
 
-[Reference - Podcast Link] (https://packetpushers.net/podcast/total-network-operations/)
+[Reference - Podcast Link](https://packetpushers.net/podcast/total-network-operations/)
 
 
 ## PP038: A Peek Inside the Security Mind
