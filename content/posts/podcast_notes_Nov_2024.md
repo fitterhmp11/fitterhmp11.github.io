@@ -6,7 +6,7 @@ tags:
 categories: 
 
 
-draft: true
+draft: false
 url: "podcasts-11-2024"
 summary: "Notes from Podcasts listened to November 2024"
 description: "Notes from Podcasts listened to November 2024"
