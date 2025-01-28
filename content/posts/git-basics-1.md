@@ -4,6 +4,7 @@ date: 2025-01-28T04:00:00
 tags:
   - git
 categories: 
+ - development
  
 draft: false
 url: "git-basics"

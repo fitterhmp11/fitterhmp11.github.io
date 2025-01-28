@@ -7,6 +7,7 @@ tags:
   - codespaces
 
 categories: 
+- networking
 
 draft: false
 url: "netlab-bgplabs-overview"

@@ -5,7 +5,7 @@ tags:
   - git
   - ai
 categories: 
-
+- development
 draft: false
 url: "pull-or-clone"
 summary: "Git question: Pull or Clone to my empty local folder?"

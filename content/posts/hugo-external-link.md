@@ -4,7 +4,7 @@ date: 2025-01-28T15:00:00
 tags:
   - hugo
 categories: 
- - hugo
+ - development
 
 draft: false
 url: "hugo-external-links"

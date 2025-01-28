@@ -45,7 +45,10 @@ Distinguish between the "threat to the project" type of problem from "this will 
 
 Magazine executive - read a magazine about new idea then tell team to do it, team spends time researching then it’s forgotten
 
-[Reference - Podcast Link](https://packetpushers.net/podcast/heavy-strategy)
+Reference: Link to {{< external-link "https://packetpushers.net/podcast/heavy-strategy" >}}Podcast {{< /external-link >}} Website.
+
+[Reference - Podcast Link]()
+
 
 ## TNO006: Network Operations is Where It’s At
 
@@ -60,15 +63,12 @@ Cloud companies have a mindset that is not afraid of change. In fact they approa
 
 There’s some companies in industries that dev ops is not the correct approach to the software development cycle will be more like network operations, COI and other tools
 
-[Reference - Podcast Link](https://packetpushers.net/podcast/total-network-operations/)
-
+Reference: Link to {{< external-link "https://packetpushers.net/podcast/total-network-operations/" >}}Podcast {{< /external-link >}} Website.
 
 ## PP038: A Peek Inside the Security Mind
 
 in cybersecurity there is no such thing as done.
 Create a plan that is never done 
 
-
-[Reference - Podcast Link](https://packetpushers.net/podcast/packet-protector/)
-
 Reference: Link to {{< external-link "https://packetpushers.net/podcast/packet-protector/" >}}Podcast {{< /external-link >}} Website.
+

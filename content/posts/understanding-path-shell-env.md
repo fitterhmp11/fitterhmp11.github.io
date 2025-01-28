@@ -5,7 +5,7 @@ tags:
   - linux
   - macos
 categories: 
-
+- linux
 draft: false
 url: "path-shell-env"
 summary: "Some basics information and commands relating to path, shell, and enviroment variables in MacOS/Linux"

@@ -4,6 +4,7 @@ date: 2024-11-26T01:00:00
 tags:
   - git
 categories: 
+ - development
  
 draft: false
 url: "simple-git-workflow"

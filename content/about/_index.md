@@ -6,7 +6,7 @@ draft: false
 # Abstract
 An "old-world" network engineer, leveraging 20+ years of networking experience to explore "new-world" concepts.
 
-Topics will focus on increasing my understanding of cybersecurity, networking, network automation, network observability, virtualization, cloud, linux, python, programmingß and misc tips I find useful and meaningful.
+Topics will focus on increasing my understanding of cybersecurity, networking, network automation, network observability, virtualization, cloud networking, linux, python, programming and misc tips I find useful and meaningful.
 
 # Learn by Doing
 Recognizing my tendency to always start from the basics and slowly proceed systematically, I often find I get distracted before I can make any meaningful progress.
@@ -19,7 +19,7 @@ Additionally, I aim to deepen my understanding through writing, while potentiall
 # Use of AI
 I will make use AI to help develop this website and assist with my learning as much as possible. 
 Regarding content, AI tools will be used to help generate ideas, research topics, provide feedback on readability and answer my questions.
-I will be leaning heavily on AI to help me learn new topics.  For example, using to write and trouble scripts a
+I will be leaning heavily on AI to help me learn new topics.  For example, using to write and troubleshoot scripts.  I will also make note of AI queries used.
 
-All content will be my own, and thus will be reviewed and edited by me before posting.
+All content will be my own, and thus will be reviewed and edited by me before posting. 
 If any content is entirely AI generated, it will be marked as such.
