@@ -63,7 +63,4 @@ Reference: Link to {{< external-link "https://twit.tv/shows/security-now" >}}Pod
 
 Reference: Link to {{< external-link "https://twit.tv/shows/security-now" >}}Podcast{{< /external-link >}} Website.
 
----
-
-This Markdown article is now formatted with Hugo's external-link shortcode for references. Let me know if you need any additional refinements!
 
