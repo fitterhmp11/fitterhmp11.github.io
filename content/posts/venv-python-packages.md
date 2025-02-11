@@ -1,6 +1,6 @@
 ---
 title: "Virtual Environments, Python Package Installation, and Homebrew on macOS"
-date: 2025-02-006T01:00:00
+date: 2025-02-06T01:00:00
 tags:
   - linux
   - macos
