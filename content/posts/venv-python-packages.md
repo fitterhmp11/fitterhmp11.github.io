@@ -19,8 +19,7 @@ description: "Virtual Environments, Python Package Installation, and Homebrew on
 ## **Virtual Environments**
 
 ### **What is a Virtual Environment?**
-A virtual environment is an isolated Python environment where you can install packages without affecting the system-wide Python installation. This is useful for managing dependencies across different projects and preventing version conflicts.
-
+A virtual environment is an isolated Python environment where you can install packages without affecting the system-wide Python installation. This is useful for managing dependencies across different projects and preventing version conflicts
 ### **Why Use Virtual Environments?**
 - Keeps dependencies isolated for each project.  
 - Prevents conflicts between package versions across projects.  
