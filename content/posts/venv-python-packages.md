@@ -12,7 +12,7 @@ url: "venv-python-packages"
 summary: "Virtual Environments, Python Package Installation, and Homebrew on MacOS"
 description: "Virtual Environments, Python Package Installation, and Homebrew on MacOS"
 
-
+---
 
 # **Virtual Environments, Python Package Installation, and Homebrew on macOS**
 
