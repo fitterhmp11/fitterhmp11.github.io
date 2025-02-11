@@ -15,15 +15,15 @@ description: "Overview of Plan to implement the CIS Controls v8.1 at home networ
 ---
 
 
-In an effort improve in my understanding cybersecurity posture/defense, I will implement the CIS Controls (v8.1) on my small home enviroment.  I will try to go through all 18 controls - focusing on IG1 first. Perhaps later I will return to go through or examine IG2 and IG3 more closely.
+In an effort improve in my understanding cybersecurity posture/defense, I will implement the CIS Controls (v8.1) on my small home environment.  I will try to go through all 18 controls - focusing on IG1 first. Perhaps later I will return to go through or examine IG2 and IG3 more closely.
 
 My plan is to do 1 post per Control section, summarizing what I did to accomplish this task, or describing what prevented me from accomplishing it.  I also will to provide some context of the purpose of each control and the action taken.
 
-In an enterprise settings, there is a lot of buy-in needed by leadership and all parties to implement these controls.  By doing it in my small home network, I can become more familar with the controls and the underlining principles.
+In an enterprise settings, there is a lot of buy-in needed by leadership and all parties to implement these controls.  By doing it in my small home network, I can become more familiar with the controls and the underlining principles.
 
-By documenting on this blog, I hope to sound down some of these priniciples as well as improve in technical know now.
+By documenting on this blog, I hope to sound down some of these principles as well as improve in technical know now.
 
-I intend to move through each control as quickly as possible, yet I am open to use this to drive some other areas of focus in my learning as much as possible.  At the outset I will look for oppurtinties to use these controls to improve in these areas
+I intend to move through each control as quickly as possible, yet I am open to use this to drive some other areas of focus in my learning as much as possible.  At the outset I will look for opportunities to use these controls to improve in these areas
 - python
 - linux
 - automation
@@ -37,7 +37,7 @@ I intend to move through each control as quickly as possible, yet I am open to u
 Center for Internet Security - a worldwide community.
 
 ### What Are They?
-security best practises to protect small office to enterprise networks.
+security best practices to protect small office to enterprise networks.
 designed to be based on best practices, attacker techniques and community input.
 Not vendor specific, but
 
@@ -48,9 +48,9 @@ Each category is divided into various safeguards - or a specfic task/prodedure/p
 
 ### What are the IG (Implmentation Groups)?
 
-To help with various levels of enterprises and to prioritieze the most critical safeguards, 3 different Implementation Groups (IG) are identified.
+To help with various levels of enterprises and to prioritize the most critical safeguards, 3 different Implementation Groups (IG) are identified.
 
-IG1/2/3 each identifity 3 levels of safeguard - each with increasing effectiveness and complexity
+IG1/2/3 each identify 3 levels of safeguard - each with increasing effectiveness and complexity
 IG1 - home office, limited staff, essiential cybersecurity hygene
 IG2 - it/security staff exists.  Enterprise with data and reputational concerns to be addresss
 IG3 - large-scale operation with security teams handling all aspects of infomration secrurity.
