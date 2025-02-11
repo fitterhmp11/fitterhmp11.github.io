@@ -44,26 +44,26 @@ Not vendor specific, but
 they also provide baselines and hardening guideline for various devices, Operating Systems and vendors.
 
 Divided up into 18 large Controls - or major category.
-Each category is divided into various safeguards - or a specfic task/prodedure/policy to be performed.  Each safeguard is associated with a Security Function such as govern, protect, identity, respond, or recover.
+Each category is divided into various safeguards - or a specific task/procedure/policy to be performed.  Each safeguard is associated with a Security Function such as govern, protect, identity, respond, or recover.
 
 ### What are the IG (Implmentation Groups)?
 
 To help with various levels of enterprises and to prioritize the most critical safeguards, 3 different Implementation Groups (IG) are identified.
 
 IG1/2/3 each identify 3 levels of safeguard - each with increasing effectiveness and complexity
-IG1 - home office, limited staff, essiential cybersecurity hygene
-IG2 - it/security staff exists.  Enterprise with data and reputational concerns to be addresss
-IG3 - large-scale operation with security teams handling all aspects of infomration secrurity.
+IG1 - home office, limited staff, essential cybersecurity hygiene
+IG2 - it/security staff exists.  An enterprise with data and reputation concerns to be addressed.
+IG3 - large-scale operation with security teams handling all aspects of information security.
 
 While going through all 18 CIS Controls, and organization can start with completing all the IG1 safeguards, then returning to IG2 and IG3.  
-This increase effectifiveness and security by - prioritization.
+This increase effectiveness and security by - prioritization.
 
-Some oranizations may not currently have the capablity of completed all the IG2/3 safeguards.
+Some organizations may not currently have the capability of completed all the IG2/3 safeguards.
 
 
 
 ### Why Use CIS Controls?
-align with different frameworks, so by implenting CIS controls, will already be accomplishing many of the larger scale enteprise frameworks (NIST/ISO27001)
+align with different frameworks, so by implementing CIS controls, will already be accomplishing many of the larger scale enterprise frameworks (NIST/ISO27001)
 
 
 My impression of CIS controls, as opposed to other cybersecurity frameworks, is that they are more action oriented, with focus on most important steps to defend.
@@ -80,4 +80,4 @@ Date started, Date Completed, Lessons Learned, References
 ## Progress so far...
 
 
-CIS Control 1 Inventory and Control of Enterprise Assets 
+CIS Control 1 - Inventory and Control of Enterprise Assets 

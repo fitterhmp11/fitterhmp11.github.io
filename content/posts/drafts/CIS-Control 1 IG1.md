@@ -1,5 +1,5 @@
 ---
-title: "CIS Controls at Home - Control 1 - IG1"
+title: "CIS Controls at Home: Control 1 IG1 - Inventory and Control of Enterprise Assets"
 date: 2025-02-11T02:00:00
 tags:
   - cis
