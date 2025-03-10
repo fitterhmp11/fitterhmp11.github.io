@@ -1,6 +1,6 @@
 ---
 title: "Setup GCP Containerlab host with VPN to PLAB"
-date: 2025-03-010T01:00:00
+date: 2025-03-10T01:00:00
 tags:
   - containerlab
   - gcp
