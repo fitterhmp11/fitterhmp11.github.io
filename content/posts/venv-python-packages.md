@@ -50,7 +50,7 @@ The `activate` script is part of every virtual environment and is used to activa
 ### **Activating a Virtual Environment**
 Once you find a virtual environment, navigate to its directory and activate it using the following command:
 ```bash
-source ./venv/bin/activate
+source ./.venv/bin/activate
 ```
 When the virtual environment is active, your terminal prompt will change to include the name of the environment (e.g., `(venv)`).
 
