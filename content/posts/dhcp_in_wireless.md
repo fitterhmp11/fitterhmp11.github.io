@@ -1,7 +1,7 @@
 ---
 title: "DHCP in Wireless Networks: Operations and Best Practices"
 date: 2025-11-21T01:00:00
-draft: true
+draft: false
 tags:
   - dhcp
   - wireless
