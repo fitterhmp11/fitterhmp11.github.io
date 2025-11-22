@@ -1,11 +1,11 @@
 ---
 title: "RF and Wireless Networks: Operations and Best Practices"
 date: 2025-11-21T02:00:00
-draft: false
+draft: true
 tags: 
-    - wireless
-    - aruba
-    - troubleshooting
+  - wireless
+  - aruba
+  - troubleshooting
 categories: 
   - Networking
 url: "rf-and-wireless"
