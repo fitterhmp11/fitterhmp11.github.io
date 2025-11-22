@@ -1,11 +1,11 @@
 ---
 title: "DHCP in Wireless Networks: Operations and Best Practices"
 date: 2025-11-21T01:00:00
-draft: false
+draft: true
 tags: ["dhcp", "wireless", "networking", "wifi", "enterprise", "troubleshooting", "aruba"]
 categories: 
- - Networking
- url: "dhcp-in-wireless"
+  - Networking
+url: "dhcp-in-wireless"
 summary: "Information gathered while troubleshooting DHCP issues in Wireless networks"
 ---
 
