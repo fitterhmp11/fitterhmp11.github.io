@@ -1,10 +1,9 @@
 ---
 title: "Packets Through a Switch Forwarding Engine"
-date: 2025-01-16T01:00:00
+date: 2026-01-16T01:00:00
 tags:
   - concepts
   - podcasts
-  - ntes
 categories: 
  - Networking
 draft: false
