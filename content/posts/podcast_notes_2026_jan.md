@@ -1,13 +1,12 @@
 ---
-
 title: "Podcast Notes: January 2026"
 date: 2026-02-01T01:00:00
 tags:
-* podcasts
+  - podcasts
 
 categories:
-* Networking
-* Security
+  - Networking
+  - Security
 
 draft: false
 url: "podcasts-01-2026"
