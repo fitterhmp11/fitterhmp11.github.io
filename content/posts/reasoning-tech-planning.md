@@ -1,6 +1,6 @@
 ---
 title: "Reasoning and Technical Planning"
-date: 2026-01-16T021:00:00
+date: 2026-01-16T21:00:00
 tags:
   - concepts
 categories: 

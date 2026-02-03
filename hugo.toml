@@ -20,11 +20,7 @@ theme = 'ananke'
   weight = 2
 
 
-[[menu.main]]
 
-  name = "Hugo"
-  url = "/tags/hugo"
-  weight = 3
 
 [[menu.main]]
 
