@@ -4,22 +4,17 @@ date: 2024-11-20
 draft: false
 ---
 # Abstract
-An "old-world" network engineer, leveraging 20+ years of networking experience to explore "new-world" concepts.
+An "old-world" network engineer, leveraging 20+ years of networking experience to explore "new-world" concepts as I see the changes in the industry.
 
 Topics will focus on increasing my understanding of cybersecurity, networking, network automation, network observability, virtualization, cloud networking, linux, python, programming and misc tips I find useful and meaningful.
 
 # Learn by Doing
-Recognizing my tendency to always start from the basics and slowly proceed systematically, I often find I get distracted before I can make any meaningful progress.
-Because of this, I'm shifting to **learning by doing** approach.  The focus will be on small tasks, projects and posts in order apply unfamiliar concepts and technologies, allowing me to grow in knowledge, understanding, and experience.
+This site is primarily a technical learning repo. I use it to keep track of what I’m learning and to "show my work" as I develop new skills. If the notes here happen to help someone else solve a problem, that’s even better.
 
-# Intent of Website
-This website intends to be documentation resource for new skills and learning gained.
-Additionally, I aim to deepen my understanding through writing, while potentially providing content that may be helpful to others.
+# How I Use AI
+I use AI as a tool to speed up my learning. It acts as a pair programmer for troubleshooting scripts, a research assistant for new topics, and an editor for my notes. 
 
-# Use of AI
-I will make use AI to help develop this website and assist with my learning as much as possible. 
-Regarding content, AI tools will be used to help generate ideas, research topics, provide feedback on readability and answer my questions.
-I will be leaning heavily on AI to help me learn new topics.  For example, using to write and troubleshoot scripts.  I will also make note of AI queries used.
+While AI helps with the heavy lifting, I personally review and test everything before it gets posted. If I use a specific AI query to build something, I’ll usually make a note of it in the post.
 
-All content will be my own, and thus will be reviewed and edited by me before posting. 
-If any content is entirely AI generated, it will be marked as such.
+# The Fine Print
+This is a personal project. The opinions are mine, and the technical notes are for educational use. Always test configurations in a lab before you even think about putting them into a production environment.

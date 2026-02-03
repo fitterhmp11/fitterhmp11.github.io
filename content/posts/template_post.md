@@ -26,6 +26,7 @@ github
 concepts
 python
 fortinet
+podcasts
 
 
 
@@ -34,4 +35,5 @@ Networking
 Cybersecurity
 Automation
 Virtualization
-Linux
+Development
+Observability
